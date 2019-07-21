@@ -1,0 +1,240 @@
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:16:23<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52555<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:16:24<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52555<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:16:24<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52555<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:12<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52568<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:29<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:30<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:30<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:31<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:31<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:31<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:32<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:18:32<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52573<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:19:42<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52595<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:21:24<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52608<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:22:41<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52616<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:22:42<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52616<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:22:47<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52620<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:23:32<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52628<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:23:32<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52628<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
+<table class='adminlist'><tr><td><pre>Time : 18/07/2019 - 16:23:32<br/>HTTP_X_FORWARDED_FOR : 
+From IP : 192.168.1.64<br/>From host : <br/>From port : 52628<br/>From user agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36<br/>Script file name : /home/ngocnv/www/demo/index.php<br/></td>
+<td><pre>Error Msg : SQLSTATE[HY000] [1045] Access denied for user 'ngonnv'@'localhost' (using password: YES)</td>
+<td><pre>Input : Array
+(
+    [host] => localhost
+    [user] => ngonnv
+    [pass] => ngonnv@123
+    [db] => ngocnv
+)
+</td>
+</tr></table>
